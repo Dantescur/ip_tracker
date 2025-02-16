@@ -2,7 +2,7 @@ name: ip_tracker
 description: "An ip tracker app."
 
 publish_to: "none"
-version: 1.0.2
+version: 1.0.3
 
 environment:
   sdk: ^3.7.0
